@@ -26,7 +26,7 @@ jobs:
       - checkout
 
       # The next step will Grant permission
-      - android/permission:
+      - android/build:
           test-command: sudo chmod +x ./
       # The next step will run the unit tests 
       - android/run-tests:
