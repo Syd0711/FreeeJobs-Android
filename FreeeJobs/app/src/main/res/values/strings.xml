@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">FreeeJobs</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in_basic">Login</string>
+    <string name="action_sign_in_linkedin">Login With LinkedIn</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">At least 8 characters in length, Lowercase and Uppercase letters, Numbers and Special characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="job_name"><u>Job Name</u></string>
+    <string name="client_name"><u>Client Name</u></string>
+    <string name="appy_job_desc_title"><u>Why should you be choosen?</u></string>
+
+    <string name="action_request_password_change"><u>Request password change</u></string>
+    <!-- Strings related to landing page (lp)-->
+    <string name="welcome_text">Welcome To FreeeJobs!</string>
+    <string name="lp_find_job_button">Find Job</string>
+    <string name="lp_find_job_application_button">Job Application Status</string>
+    <string name="lp_my_profile_button">My Profile</string>
+    <string name="lp_posted_job_button">Posted Job</string>
+    <string name="lp_logout_button">Logout</string>
+    <!-- Strings related to job listing browser-->
+    <string name="search_hint">Search For Jobs</string>
+    <string name="job_listing_browser_title">Find Jobs!</string>
+
+    <string name="job_listing_details_title">Job Details</string>
+    <string name="apply_job_title">Submit Application</string>
+    <string name="apply_button">Apply</string>
+    <string name="view_applicants_button">View Applicants</string>
+    <string name="delete_button">Delete</string>
+
+    <string name="job_applicants_title">Applicants</string>
+    <string name="applicants_details_title">Applicant\'s Details</string>
+    <string name="accept_button">Accept</string>
+    <string name="reject_button">Reject</string>
+    <string name="submit_button">Submit</string>
+
+    <string name="label_firstName">First Name</string>
+    <string name="label_lastName">Last Name</string>
+    <string name="label_description">Description</string>
+    <string name="label_dob">Date of Birth</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_contactNo">Contact No</string>
+    <string name="label_aboutMe">About Me</string>
+    <string name="label_profTitle">Professional Title</string>
+    <string name="label_skills">Skills</string>
+    <string name="label_linkedInAcct">LinkedIn Account</string>
+
+
+    <string name="job_application_title">My Job Applications</string>
+    <string name="review_link"><u>Write a Review</u></string>
+
+    <string name="my_jobs_title">My Jobs</string>
+
+    <string name="my_profile_title">My Profile</string>
+    <string name="ratings_title">Review</string>
+    <string name="label_rating">Please Rate</string>
+    <string name="label_review_title">Please write down your review title</string>
+    <string name="label_review">Please write down your review below</string>
+    <string name="freelancer_profile_title">Freelancer Profile</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

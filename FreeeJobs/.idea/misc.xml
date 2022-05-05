@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.2520833333333333" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_applicant_details.xml" value="0.1453804347826087" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_apply_job.xml" value="0.3333333333333333" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_job_applicants.xml" value="0.1" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_job_application.xml" value="0.1" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_job_listing.xml" value="0.1" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_job_listing_details.xml" value="0.1453804347826087" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_landing_page.xml" value="0.1453804347826087" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_my_jobs.xml" value="0.1453804347826087" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/list_job_applicants_row_main.xml" value="0.1" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/list_job_application_row_main.xml" value="0.1453804347826087" />
+        <entry key="..\:/Data/School/NUS-ISS/freeejobs/sourceCode/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/list_job_listing_row_main.xml" value="0.1" />
+        <entry key="..\:/NUS-ISS/Security Course/Project/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_job_application.xml" value="0.1453804347826087" />
+        <entry key="..\:/NUS-ISS/Security Course/Project/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_job_listing.xml" value="0.22" />
+        <entry key="..\:/NUS-ISS/Security Course/Project/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_landing_page.xml" value="0.22" />
+        <entry key="..\:/NUS-ISS/Security Course/Project/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_login.xml" value="0.11367753623188406" />
+        <entry key="..\:/NUS-ISS/Security Course/Project/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/activity_my_jobs.xml" value="0.1" />
+        <entry key="..\:/NUS-ISS/Security Course/Project/FreeeJobs-Android/FreeeJobs/app/src/main/res/layout/posted_job_row_main.xml" value="0.1453804347826087" />
+        <entry key="app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-w936dp/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_job_application.xml" value="0.1831306990881459" />
+        <entry key="app/src/main/res/layout/activity_job_listing.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_job_listing_details.xml" value="0.18342391304347827" />
+        <entry key="app/src/main/res/layout/activity_landing_page.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.21186634379334587" />
+        <entry key="app/src/main/res/layout/activity_my_jobs.xml" value="0.1831306990881459" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.1831306990881459" />
+        <entry key="app/src/main/res/layout/fragment_error_dialog.xml" value="0.17708333333333334" />
+        <entry key="app/src/main/res/layout/list_job_listing_row_main.xml" value="0.23369565217391305" />
+        <entry key="app/src/main/res/xml/network_security.xml" value="0.1296875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
