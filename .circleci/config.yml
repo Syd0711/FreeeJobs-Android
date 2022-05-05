@@ -25,9 +25,12 @@ jobs:
       # Checkout the code as the first step.
       - checkout
 
+      # The next step will Grant permission
+      - android/permission:
+          test-command: sudo chmod +x ./
       # The next step will run the unit tests 
       - android/run-tests:
-          test-command: sudo ./FreeeJobs/gradlew sonarqube
+          test-command: ./FreeeJobs/gradlew sonarqube
 
 # Invoke jobs via workflows
 # See: https://circleci.com/docs/2.0/configuration-reference/#workflows
